@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manasibapat03
+- 👋 Hi, I’m Manasi, my name is also pronounced as Mansi
 - 👀 I’m interested in Java Programming
 - 🌱 I’m currently learning Java and JavaScript
 
